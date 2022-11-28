@@ -1,3 +1,4 @@
+
 package abstractdemo;
 //abstract class
 public abstract class Person {

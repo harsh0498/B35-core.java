@@ -6,7 +6,7 @@ public class Employee extends Person {
 	public Employee(String name, String gender,int id) {
 		super(name, gender);
 		ID=id;
-	 // TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub
 	}
 	@Override
 	public void work() {
