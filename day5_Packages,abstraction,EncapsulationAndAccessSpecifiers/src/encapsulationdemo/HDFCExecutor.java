@@ -1,7 +1,5 @@
 package encapsulationdemo;
 
-import org.tnsindia.accessspecifierdemo;
-
 public class HDFCExecutor {
 
 	public static void main(String[] args) {
